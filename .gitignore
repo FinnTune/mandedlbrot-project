@@ -2,6 +2,7 @@
 mandelbrot-env/
 venv/
 env/
+.venv/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
