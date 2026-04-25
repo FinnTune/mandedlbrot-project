@@ -59,6 +59,9 @@ python -m jupyter lab
 - The virtual environment directory `.venv/` is already ignored by git.
 - If interactive widgets do not render, restart the kernel and rerun all cells.
 
-## Copyright
+## License
 
-Copyright (c) 2026 FinnTune
+Copyright (C) 2026 Andre Teetor
+
+This project is licensed under the GNU General Public License v2.0 —
+see the [LICENSE](LICENSE) file for details.
